@@ -11,3 +11,6 @@ This script is a very promising script for currencies and cyclical assets. This 
 5) Finally, the script infinitely runs and places bids/asks whenever the current price goes above the significant high(Short) or goes below the significant low(Long)
 
 This is a very promising script if combined with some other models/indicators and has the correct parameters for the right market conditions. Cyclical markets and currencies have the tendency to go through vast low-volatility (Crab) markets
+
+
+![image](https://github.com/IBatuu/Support_Resistance_Trader/assets/78052559/98b3a4d4-b22a-42b4-b9aa-ced4891d16e1)
